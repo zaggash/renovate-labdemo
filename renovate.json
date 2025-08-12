@@ -1,3 +1,5 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
+  "username": "renovate-labbot",
+  "gitAuthor": "renovate-labbot <renovate-labbot[bot]@users.noreply.github.com>",
+  "repositories": ["zaggash/renovate-labdemo"]
 }
